@@ -93,7 +93,7 @@ Users can:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/hoopvision-ai.git
+git clone https://github.com/iteachai/hoopvision-ai.git
 cd hoopvision-ai
 pip install -r requirements.txt
 streamlit run nbaKMeans.py
